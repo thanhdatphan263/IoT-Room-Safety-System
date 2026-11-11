@@ -46,3 +46,13 @@ Hệ thống an ninh và cắt điện khẩn cấp chống cháy nổ
 * Giám sát môi trường: Cảm biến liên tục đo đạc nhiệt độ, độ ẩm và nồng độ khí gas/khói trong phòng, truyền dữ liệu qua MQTT để hiển thị biểu đồ theo dõi trực quan trên Node-RED Dashboard.
 * Trạng thái bình thường: Hệ thống hoạt động ổn định, duy trì cấp điện và cập nhật thông số liên tục lên đám mây.
 * Xử lý sự cố khẩn cấp: Khi cảm biến phát hiện khói, khí gas rò rỉ hoặc nhiệt độ tăng đột biến, ESP32 ngay lập tức ngắt Relay để cắt điện ổ cắm, kích hoạt còi hú lớn tại phòng, đồng thời gửi bản tin cảnh báo khẩn cấp qua MQTT lên Node-RED để đẩy thông báo về điện thoại của người dùng.
+* 
+## 6. Tài liệu tham khảo & Datasheet
+
+* [ESP32 Datasheet - Espressif Systems](https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf)
+* [MQ-2 Gas Sensor Datasheet - SparkFun](https://www.sparkfun.com/datasheets/Sensors/Biometric/MQ-2.pdf)
+* [Flame Sensor Module Specification - Components101](https://components101.com/sensors/flame-sensor-module)
+* [Relay and Contactor Application Guide - Electronics Tutorials](https://www.electronics-tutorials.info/io/io_7.html)
+* [Piezo Buzzer Working Principle - Electronic Hub](https://www.electronicshub.org/piezo-buzzer/)
+* [PubSubClient MQTT Library Documentation](https://github.com/knolleary/pubsubclient)
+* [Node-RED Documentation](https://nodered.org/docs/)
