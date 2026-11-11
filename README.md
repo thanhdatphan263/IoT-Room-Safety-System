@@ -43,6 +43,5 @@ Hệ thống an ninh và cắt điện khẩn cấp chống cháy nổ
 ## 7. Tài liệu tham khảo & Datasheet
 
 * [ESP32 Datasheet - Espressif Systems](https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf)
-* [Relay and Contactor Application Guide - Electronics Tutorials](https://www.electronics-tutorials.info/io/io_7.html)
 * [PubSubClient MQTT Library Documentation](https://github.com/knolleary/pubsubclient)
 * [Node-RED Documentation](https://nodered.org/docs/)
