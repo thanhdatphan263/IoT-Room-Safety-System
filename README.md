@@ -18,7 +18,7 @@ Hệ thống an ninh và cắt điện khẩn cấp chống cháy nổ
  <img width="433" height="176" alt="ESP32" src="https://github.com/user-attachments/assets/1735eec2-0252-49ac-9c02-af34375850f7" />
  
 * Cảm biến khói và khí gas MQ-2.
-* 
+  
  <img width="224" height="149" alt="cam_bien_gas_MQ-2" src="https://github.com/user-attachments/assets/3ab718a1-680b-4f48-84ba-199447c78d49" />
  
 * Cảm biến lửa và cảm biến nhiệt độ, độ ẩm DHT22.
