@@ -44,7 +44,8 @@ Hệ thống an ninh và cắt điện khẩn cấp chống cháy nổ
 
 ## 4. Sơ đồ khối kết nối
 
-<img width="1626" height="497" alt="so_do_room" src="https://github.com/user-attachments/assets/40055805-c35b-4d66-a9cc-8c19ad3dc915" />
+<img width="835" height="549" alt="IOT_ROOM_SODOKHOI" src="https://github.com/user-attachments/assets/d0466328-98cf-4be7-8e28-0223066e8871" />
+
 
 
 ## 5. Nguyên lý hoạt động
