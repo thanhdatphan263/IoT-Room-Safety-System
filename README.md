@@ -1,5 +1,9 @@
 # IoT-Room-Safety-System
 Hệ thống an ninh và cắt điện khẩn cấp chống cháy nổ 
+<img width="433" height="176" alt="ESP32" src="https://github.com/user-attachments/assets/1735eec2-0252-49ac-9c02-af34375850f7" />
+<img width="224" height="149" alt="cam_bien_gas_MQ-2" src="https://github.com/user-attachments/assets/3ab718a1-680b-4f48-84ba-199447c78d49" />
+
+
 
 
 ## 1. Giới thiệu đề tài
@@ -15,10 +19,18 @@ Hệ thống an ninh và cắt điện khẩn cấp chống cháy nổ
 
 ## 3. Danh mục phần cứng 
 * Vi điều khiển ESP32 Dev Board.
+* <img width="433" height="176" alt="ESP32" src="https://github.com/user-attachments/assets/1735eec2-0252-49ac-9c02-af34375850f7" />
 * Cảm biến khói và khí gas MQ-2.
+* <img width="224" height="149" alt="cam_bien_gas_MQ-2" src="https://github.com/user-attachments/assets/3ab718a1-680b-4f48-84ba-199447c78d49" />
 * Cảm biến lửa và cảm biến nhiệt độ, độ ẩm DHT22.
+* <img width="256" height="268" alt="cam_bien_DHT22" src="https://github.com/user-attachments/assets/6663055e-5127-4d3c-832c-24b01aacc0bf" />
 * Module Relay 5V đóng vai trò công tắc tự động ngắt nguồn điện ổ cắm.
+* <img width="263" height="211" alt="RELAY_5V" src="https://github.com/user-attachments/assets/d5147bed-15be-4972-80d8-a40d93196f25" />
 * Còi báo động công suất cao và đèn LED cảnh báo.
+<img width="265" height="221" alt="LED" src="https://github.com/user-attachments/assets/8e76f9b4-cca6-4b09-b365-65813fd4b46f" />
+<img width="254" height="117" alt="BUZZER" src="https://github.com/user-attachments/assets/89e3eae8-7bbd-42ca-9f91-6fa12755f9f9" />
+<img width="263" height="211" alt="RELAY_5V" src="https://github.com/user-attachments/assets/d5147bed-15be-4972-80d8-a40d93196f25" />
+<img width="256" height="268" alt="cam_bien_DHT22" src="https://github.com/user-attachments/assets/6663055e-5127-4d3c-832c-24b01aacc0bf" />
 
 ## 4. Nguyên lý hoạt động
 * Giám sát môi trường: Cảm biến liên tục đo đạc nhiệt độ, độ ẩm và nồng độ khí gas/khói trong phòng, truyền dữ liệu qua MQTT để hiển thị biểu đồ theo dõi trực quan trên Node-RED Dashboard.
