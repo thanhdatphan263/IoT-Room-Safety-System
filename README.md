@@ -22,12 +22,19 @@ Hệ thống an ninh và cắt điện khẩn cấp chống cháy nổ
  <img width="224" height="149" alt="cam_bien_gas_MQ-2" src="https://github.com/user-attachments/assets/3ab718a1-680b-4f48-84ba-199447c78d49" />
  
 * Cảm biến lửa và cảm biến nhiệt độ, độ ẩm DHT22.
+  
  <img width="256" height="268" alt="cam_bien_DHT22" src="https://github.com/user-attachments/assets/6663055e-5127-4d3c-832c-24b01aacc0bf" />
+ 
 * Module Relay 5V đóng vai trò công tắc tự động ngắt nguồn điện ổ cắm.
+  
  <img width="263" height="211" alt="RELAY_5V" src="https://github.com/user-attachments/assets/d5147bed-15be-4972-80d8-a40d93196f25" />
+ 
 * Còi báo động công suất cao.
+  
 <img width="265" height="221" alt="LED" src="https://github.com/user-attachments/assets/8e76f9b4-cca6-4b09-b365-65813fd4b46f" />
+
 *đèn LED cảnh báo
+
 <img width="254" height="117" alt="BUZZER" src="https://github.com/user-attachments/assets/89e3eae8-7bbd-42ca-9f91-6fa12755f9f9" />
 
 
