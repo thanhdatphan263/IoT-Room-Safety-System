@@ -36,6 +36,7 @@ Hệ thống an ninh và cắt điện khẩn cấp chống cháy nổ
 *đèn LED cảnh báo
 
 <img width="254" height="117" alt="BUZZER" src="https://github.com/user-attachments/assets/89e3eae8-7bbd-42ca-9f91-6fa12755f9f9" />
+
 ## 4. Sơ đồ khối kết nối
 
 <img width="1626" height="497" alt="so_do_room" src="https://github.com/user-attachments/assets/40055805-c35b-4d66-a9cc-8c19ad3dc915" />
