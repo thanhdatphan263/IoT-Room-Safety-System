@@ -29,11 +29,11 @@ Hệ thống an ninh và cắt điện khẩn cấp chống cháy nổ
   
  <img width="263" height="211" alt="RELAY_5V" src="https://github.com/user-attachments/assets/d5147bed-15be-4972-80d8-a40d93196f25" />
  
-* Còi báo động công suất cao.
+* Đèn led báo hiệu
   
 <img width="265" height="221" alt="LED" src="https://github.com/user-attachments/assets/8e76f9b4-cca6-4b09-b365-65813fd4b46f" />
 
-*đèn LED cảnh báo
+* Còi buzzer
 
 <img width="254" height="117" alt="BUZZER" src="https://github.com/user-attachments/assets/89e3eae8-7bbd-42ca-9f91-6fa12755f9f9" />
 
